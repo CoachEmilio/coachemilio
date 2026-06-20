@@ -28,7 +28,6 @@
 ## 🚀 Selected Work
 
 - **ProjectManager** → International gymnastics coaching program (3 coaches · hybrid learning)
-- **AI Growth Bot** → AI-powered business assistant trained on real systems
 - **Sur Studio** → Design, development & automation studio
 - **Zarpazo.art** → Creative & digital presence platform
 - **Aerial Gymnastics** → Academy website (Abu Dhabi)
